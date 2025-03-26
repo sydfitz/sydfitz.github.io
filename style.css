@@ -1,0 +1,134 @@
+/* STYLE SECTIONING TAGS */
+* {
+    margin: 0px;
+    padding: 0px
+  }
+  
+  body {
+   background-color: #ebf3ff; 
+  }
+  
+  #portfoliomain{
+    text-align:center;
+  }
+  
+  
+  /* STYLE TEXT */
+  #name{
+    color:navy;
+    background-color:#fdfdbf;
+    font-family:"Helvetica";
+    font-size: 40px;
+    padding: 25px;
+  }
+  
+  #artlabel{
+    color:blue;
+    text-align:center;
+    font-size:24px;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 3px;
+    margin-top: 20px;
+    margin-bottom:10px;
+  }
+  
+  #letsconnect{
+    color:navy;
+    font-family:"Helvetica";
+    text-align:right;
+    background-color:#fdfdbf;
+    font-size: 24px;
+    padding: 3px;
+    margin-bottom: 10px;
+    margin-top:5px
+    clear:both;
+    margin-top: 8%;
+    padding-right:15px
+  }
+  
+  main{
+    text-align: right;
+  }
+  
+  .title{
+    color:navy;
+    font-family:"Helvetica";
+    background-color:#fdfdbf;
+    text-align: left;
+    font-size: 26px;
+    padding-left: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+    margin-top: 10px
+  }
+  
+  p {
+    color:#5454b6;
+    font-family:"Georgia";
+    font-size: 21px;
+    text-align: left;
+    margin: 10px;
+    padding: 5px
+  }
+  
+  .socials {
+    text-align: right;
+    font-size: 21px;
+    padding-right: 5px;
+  }
+  
+  .artdescription{
+    text-align:center;
+    margin-bottom: 10px;
+    font-size:20px
+  }
+  
+  
+  /* STYLE IMAGES */
+  .selfie{
+    border-radius: 20%;
+    max-width: 250px;
+    max-height: 250px;
+    border: 3px solid white;
+    float:right;
+    margin-left: 50px
+  }
+  
+  img{
+    border-radius: 20%;
+    max-width: 250px;
+    max-height: 250px;
+    border: 3px solid white;
+    margin-left: 50px;
+    margin-right:50px
+  }
+  
+  #artwork{
+    text-align:center;
+  }
+  
+  /* STYLE NAV BAR */
+  ul{
+    list-style-type: none;
+    background-color: navy;
+    overflow: hidden;
+    padding: 1em;
+    margin-bottom: 40px
+  }
+  li{
+    display:inline;
+    float: right
+  }
+  li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-family: "Helvetica";
+    padding: 1em;
+  }
+  
+  li a:hover{
+    background-color:blue;
+  }
